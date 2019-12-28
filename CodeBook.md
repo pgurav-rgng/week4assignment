@@ -7,7 +7,7 @@
     Reading trainings tables   -3 
     Reading testing tables   - 3
     Reading feature vector   - 1
-    Reading activity labels  - 1
+    Reading activity labels  - 1 
 
 ## About variables:   
 * `x_train`, `y_train`, `x_test`, `y_test`, `subject_train` and `subject_test` contain the data from the downloaded files.

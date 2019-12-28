@@ -37,7 +37,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 4. Appropriately labeling the data set with descriptive variable names   
 
 5. Creating a final tidy data set with the average of each variable for each activity and each subject   
-  Writing second tidy data set in txt file  
+  Writing second tidy data set in txt file
   
   
   
